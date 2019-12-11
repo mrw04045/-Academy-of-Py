@@ -1,1 +1,2 @@
-# Pandas-Homework
+# Academy of Py 
+Pandas-Python
